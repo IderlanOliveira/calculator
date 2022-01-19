@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora</title>
+    <link rel="stylesheet" href="./css/styles.css"/>
+    <link rel="stylesheet" href="./css/media-queries.css"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com"/>
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""/>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap"
+      rel="stylesheet"/>
+</head>
+
+<body>
+    <div class="calculator">
+        
+        <!-- Display -->
+        <div class="calculator_display display">
+            <p class="display_operation"></p>
+            <p class="display_result"></p>
+        </div>
+        
+        <!-- Pad -->
+        <div class="calculator_pad pad">
+            <div class="pad_key pad_key--ac">AC</div>
+            <div class="pad_key pad_key--del">DEL</div>
+            <div class="pad_key pad_key--percent">%</div>
+            <div class="pad_key pad_key--divide">/</div>
+            <div class="pad_key pad_key--7">7</div>
+            <div class="pad_key pad_key--8">8</div>
+            <div class="pad_key pad_key--9">9</div>
+            <div class="pad_key pad_key--multiply">*</div>
+            <div class="pad_key pad_key--4">4</div>
+            <div class="pad_key pad_key--5">5</div>
+            <div class="pad_key pad_key--6">6</div>
+            <div class="pad_key pad_key--subtract">-</div>
+            <div class="pad_key pad_key--1">1</div>
+            <div class="pad_key pad_key--2">2</div>
+            <div class="pad_key pad_key--3">3</div>
+            <div class="pad_key pad_key--add">+</div>
+            <div class="pad_key pad_key--dot">.</div>
+            <div class="pad_key pad_key--0">0</div>
+            <div class="pad_key pad_key--equal">=</div>
+        </div>
+    </div>
+
+    <!-- Script -->
+    <script src="./dist/fitty.min.js"></script>
+    <script src="./js/helpers.js"></script>
+    <script src="./js/script.js"></script>
+</body>
+
+</html>

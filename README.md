@@ -12,7 +12,7 @@ Meu nome é Bruno e sou desenvolvedor de sofware.
 Desenvolvi essa calculadora em HTML, CSS e JavaScript.
 <br>
 <br>
-Link da calculadora para visualização e uso: https://brunosouzacv.github.io/calculadora/
+Link da calculadora para visualização e uso: https://brunosouzacv.github.io/calculator/
 <br>
 <br>
 Link do meu LinkedIn: https://www.linkedin.com/in/brunosouzacvlho/

@@ -34,7 +34,7 @@ Hi, my name is Bruno and I am a software developer.
 I developed this calculator in HTML, CSS and JavaScript.
 <br>
 <br>
-Calculator link for viewing and use: https://brunosouzacv.github.io/calculadora/
+Calculator link for viewing and use: https://brunosouzacv.github.io/calculator/
 <br>
 <br>
 My Linkedin link: https://www.linkedin.com/in/brunosouzacvlho/
